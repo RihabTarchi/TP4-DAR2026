@@ -18,11 +18,9 @@ Cette application permet :
 - La communication entre plusieurs clients.
 - La diffusion des messages via le serveur.
 
+## 2. Structure du Projet :
 
-
-
-## 4. Structure du Projet :
-
+### Étape 1 : Préparation de l’espace de travail :
 ![L'arboressence](screenshots/1.png)
 
 ### Étape 2 : Chat unidirectionnel
