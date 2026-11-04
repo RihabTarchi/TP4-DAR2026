@@ -69,7 +69,7 @@ l'envoi et la réception des messages.
 ![execution](screenshots/18.png)
 ![execution](screenshots/19.png)
 
-## 5. Conclusion
+## 3. Conclusion
 
 Ce TP m'a permis de comprendre le fonctionnement
 des sockets UDP en Java.
